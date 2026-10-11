@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Hyundai_Ioniq_9"
+
+generations:
+  - name: "First Generation (ME)"
+    start_year: 2025
+    end_year: null
+    description: "A three-row battery-electric SUV on the E-GMP platform with a 110.3 kWh battery."
