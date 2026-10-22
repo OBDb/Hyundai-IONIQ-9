@@ -29,7 +29,27 @@ test_cases:
     IONIQ9_LOCK_FR: 0
   response: |-
     778100B62BC04BDFEBF
+    778217800540200AAAA
+- expected_values:
+    IONIQ9_BELT_RL: 0
+    IONIQ9_BELT_RM: 0
+    IONIQ9_BELT_RR: 1
+    IONIQ9_GEAR_R_2: 0
+    IONIQ9_LOCK_FL: 0
+    IONIQ9_LOCK_FR: 0
+  response: |-
+    778100B62BC04BDFEBF
     7782178005A0200AAAA
+- expected_values:
+    IONIQ9_BELT_RL: 0
+    IONIQ9_BELT_RM: 0
+    IONIQ9_BELT_RR: 1
+    IONIQ9_GEAR_R_2: 0
+    IONIQ9_LOCK_FL: 0
+    IONIQ9_LOCK_FR: 0
+  response: |-
+    778100B62BC04BDFEBF
+    7782178005C0200AAAA
 - expected_values:
     IONIQ9_BELT_RL: 0
     IONIQ9_BELT_RM: 0
